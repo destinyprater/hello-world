@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'hello-world-2022-edition-djp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_29AEBC0E0EA9425C8DCF14AA6BC417E9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6B10C469C8044D5295366D0A91642E11 }}
           package: .
